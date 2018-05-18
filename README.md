@@ -79,8 +79,8 @@ To execute liri on your computer, follow the procedure below
 
         You can obtain the above keys by visiting the websites shown below.
 
-	Spotify API keys:- visit https://developer.spotify.com/my-applications
+	Spotify API keys:- https://developer.spotify.com/my-applications
 	
-	OMDB API key:- visit http://www.omdbapi.com/apikey.aspx
+	OMDB API key:- http://www.omdbapi.com/apikey.aspx
 	
-	Twitter API keys:- visit https://apps.twitter.com/app/new
+	Twitter API keys:- https://apps.twitter.com/app/new
