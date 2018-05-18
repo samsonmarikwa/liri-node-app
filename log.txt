@@ -1,0 +1,596 @@
+Command executed: movie-this Mr. Nobody on Fri, 18 May 2018 04:49:26 GMT
+Title:  Mr. Nobody
+Year:  2009
+Internet Movie Database Rating:  7.9/10
+Rotten Tomatoes Rating:  66%
+Metacritic Rating:  63/100
+Country of production:  Belgium, Germany, Canada, France, USA, UK
+Language:  English, Mohawk
+Plot of the movie:  A boy stands on a station platform as a train is about to leave. Should he go with his mother or stay with his father? Infinite possibilities arise from this decision. As long as he doesn't choose, anything is possible.
+Actors of the movie:  Jared Leto, Sarah Polley, Diane Kruger, Linh Dan Pham
+
+Command executed: movie-this no+retreat+no+surrender on Fri, 18 May 2018 04:49:55 GMT
+Title:  No Retreat, No Surrender
+Year:  1986
+Internet Movie Database Rating:  5.6/10
+Country of production:  USA, Hong Kong
+Language:  English
+Plot of the movie:  Jason Stillwell, a Bruce Lee fan, is beaten numerous times and trains from the ghost of Lee. Jason then must use his newly acquired skills to save Seattle from a crime syndicate, whose top ...
+Actors of the movie:  Kurt McKinney, Jean-Claude Van Damme, J.W. Fails, Kathie Sileno
+
+Command executed: movie-this die+another+day on Fri, 18 May 2018 04:51:22 GMT
+Title:  Die Another Day
+Year:  2002
+Internet Movie Database Rating:  6.1/10
+Rotten Tomatoes Rating:  58%
+Metacritic Rating:  56/100
+Country of production:  UK, USA
+Language:  English, Korean, Cantonese, Spanish, German, Icelandic, Italian, Arabic
+Plot of the movie:  James Bond is sent to investigate the connection between a North Korean terrorist and a diamond mogul, who is funding the development of an international space weapon.
+Actors of the movie:  Pierce Brosnan, Halle Berry, Toby Stephens, Rosamund Pike
+
+Command executed: spotify-this-song The Sign on Fri, 18 May 2018 04:53:43 GMT
+Album:        Or Nah (feat. The Weeknd, Wiz Khalifa and DJ Mustard) [Remix Version]
+Song's name:  Or Nah (feat. The Weeknd, Wiz Khalifa and DJ Mustard) - Remix
+Artist(s)
+--------------
+              Ty Dolla $ign
+              Mustard
+              Wiz Khalifa
+              The Weeknd
+Preview Link: https://open.spotify.com/track/7t2bFihaDvhIrd2gn2CWJO
+==
+
+Album:        Beach House 3 (Deluxe)
+Song's name:  All The Time
+Artist(s)
+--------------
+              Ty Dolla $ign
+Preview Link: https://open.spotify.com/track/6YYvO0aaoOVVbsQxk3Zd7M
+==
+
+Album:        Beach House 3
+Song's name:  Love U Better (feat. Lil Wayne & The-Dream)
+Artist(s)
+--------------
+              Ty Dolla $ign
+              Lil Wayne
+              The-Dream
+Preview Link: https://open.spotify.com/track/270aLuFCbX32hhBr8MQyPM
+==
+
+Album:        Harry Styles
+Song's name:  Sign of the Times
+Artist(s)
+--------------
+              Harry Styles
+Preview Link: https://open.spotify.com/track/5Ohxk2dO5COHF1krpoPigN
+==
+
+Album:        Beach House 3 (Deluxe)
+Song's name:  Droptop in the Rain (feat. Tory Lanez)
+Artist(s)
+--------------
+              Ty Dolla $ign
+              Tory Lanez
+Preview Link: https://open.spotify.com/track/2sU3HteGBtrkfxXgzNHpO8
+==
+
+Album:        Beach House 3 (Deluxe)
+Song's name:  Love U Better (feat. Lil Wayne & The-Dream)
+Artist(s)
+--------------
+              Ty Dolla $ign
+              Lil Wayne
+              The-Dream
+Preview Link: https://open.spotify.com/track/13kIiNgXiBHbbG9gWitSqO
+==
+
+Album:        Sign of the Times
+Song's name:  Sign of the Times
+Artist(s)
+--------------
+              Harry Styles
+Preview Link: https://open.spotify.com/track/5ELRkzdzz0HvGpMDlfZHkV
+==
+
+Album:        Late Nights: The Album
+Song's name:  Impatient
+Artist(s)
+--------------
+              Jeremih
+              Ty Dolla $ign
+Preview Link: https://open.spotify.com/track/3WjyiSbfR74pjWXQ3IaFKJ
+==
+
+Album:        The Sign (US Album) [Remastered]
+Song's name:  The Sign
+Artist(s)
+--------------
+              Ace of Base
+Preview Link: https://open.spotify.com/track/0hrBpAOgrt8RXigk83LLNE
+==
+
+Album:        The Divine Feminine
+Song's name:  Cinderella (feat. Ty Dolla $ign)
+Artist(s)
+--------------
+              Mac Miller
+              Ty Dolla $ign
+Preview Link: https://open.spotify.com/track/2lpygKqzPFtItQ4ss3cgfb
+==
+
+Album:        Beach House 3
+Song's name:  Droptop in the Rain (feat. Tory Lanez)
+Artist(s)
+--------------
+              Ty Dolla $ign
+              Tory Lanez
+Preview Link: https://open.spotify.com/track/2ZN1EnypRwsD38EoFRwmu9
+==
+
+Album:        Shell Shocked (feat. Kill The Noise & Madsonik) [From "Teenage Mutant Ninja Turtles"]
+Song's name:  Shell Shocked (feat. Kill The Noise & Madsonik) - From "Teenage Mutant Ninja Turtles"
+Artist(s)
+--------------
+              Juicy J
+              Wiz Khalifa
+              Ty Dolla $ign
+              Madsonik
+              Kill The Noise
+Preview Link: https://open.spotify.com/track/7zBQRGpYImAdIZc97FNj3V
+==
+
+Album:        Suicide Squad: The Album
+Song's name:  Sucker For Pain (with Wiz Khalifa, Imagine Dragons, Logic & Ty Dolla $ign feat. X Ambassadors)
+Artist(s)
+--------------
+              Lil Wayne
+              Wiz Khalifa
+              Imagine Dragons
+              X Ambassadors
+              Logic
+              Ty Dolla $ign
+Preview Link: https://open.spotify.com/track/7qUJQSNX9QNf46CC6FgH66
+==
+
+Album:        Darkside (with Ty Dolla $ign & Future feat. Kiiara) [From Bright: The Album]
+Song's name:  Darkside (with Ty Dolla $ign & Future feat. Kiiara)
+Artist(s)
+--------------
+              Ty Dolla $ign
+              Future
+              Kiiara
+Preview Link: https://open.spotify.com/track/14EgW52HVqnLHd30bgbPxg
+==
+
+Album:        Quality Control: Control The Streets Volume 1
+Song's name:  Movin’ Up
+Artist(s)
+--------------
+              Quality Control
+              Lil Yachty
+              Ty Dolla $ign
+Preview Link: https://open.spotify.com/track/7jTL6K5hqWDVUH4j2thZrp
+==
+
+Album:        A Rush Of Blood To The Head
+Song's name:  Warning Sign
+Artist(s)
+--------------
+              Coldplay
+Preview Link: https://open.spotify.com/track/4bPkBHKLKd9WHizsvM2zV3
+==
+
+Album:        Spotify Session
+Song's name:  Or Nah (feat. Wiz Khalifa) - Live from The Village, Los Angeles
+Artist(s)
+--------------
+              Ty Dolla $ign
+              Wiz Khalifa
+Preview Link: https://open.spotify.com/track/6hYdhO1BF8V03tuF8pADKP
+==
+
+Album:        The Sign (US Album) [Remastered]
+Song's name:  All That She Wants
+Artist(s)
+--------------
+              Ace of Base
+Preview Link: https://open.spotify.com/track/6kWJvPfC4DgUpRsXKNa9z9
+==
+
+Album:        Sign of the Times
+Song's name:  Sign of the Times
+Artist(s)
+--------------
+              Jasmine Thompson
+              Sabrina Carpenter
+Preview Link: https://open.spotify.com/track/3h0RJYaohnvXg5SmWD1dZF
+==
+
+Album:        The Autobiography
+Song's name:  We Could Be Free
+Artist(s)
+--------------
+              Vic Mensa
+              Ty Dolla $ign
+Preview Link: https://open.spotify.com/track/4dH71jhtwivDcv0nSzzxkM
+==
+
+Command executed: spotify-this-song shake+it+off on Fri, 18 May 2018 04:54:46 GMT
+Album:        1989
+Song's name:  Shake It Off
+Artist(s)
+--------------
+              Taylor Swift
+Preview Link: https://open.spotify.com/track/5xTtaWoae3wi06K5WfVUUH
+==
+
+Album:        1989 (Deluxe Edition)
+Song's name:  Shake It Off
+Artist(s)
+--------------
+              Taylor Swift
+Preview Link: https://open.spotify.com/track/3fthfkkvy9av3q3uAGVf7U
+==
+
+Album:        The Emancipation of Mimi
+Song's name:  Shake It Off
+Artist(s)
+--------------
+              Mariah Carey
+Preview Link: https://open.spotify.com/track/4VKnkoNNM6yTb4cXXX3wqD
+==
+
+Album:        Shake It Off
+Song's name:  Shake It Off
+Artist(s)
+--------------
+              William Singe
+Preview Link: https://open.spotify.com/track/2AGDlqnMs7vQcSlVANkjfQ
+==
+
+Album:        Kidz Bop 27
+Song's name:  Shake It Off
+Artist(s)
+--------------
+              Kidz Bop Kids
+Preview Link: https://open.spotify.com/track/3NODaFePbYJpp5VAY1ipYp
+==
+
+Album:        Sing (Original Motion Picture Soundtrack / Deluxe)
+Song's name:  Shake It Off - From "Sing" Original Motion Picture Soundtrack
+Artist(s)
+--------------
+              Nick Kroll
+              Reese Witherspoon
+Preview Link: https://open.spotify.com/track/2Q0WZoJaRJlelcxqOvowUc
+==
+
+Album:        Shake It Off: Instrumental Guitar Covers of Pop Hits
+Song's name:  Chandelier (Instrumental Version)
+Artist(s)
+--------------
+              Steve Petrunak
+Preview Link: https://open.spotify.com/track/1HVLmKLkPyFbfO4IyLksG7
+==
+
+Album:        Shake It Off: Instrumental Guitar Covers of Pop Hits
+Song's name:  Rude (Instrumental Version)
+Artist(s)
+--------------
+              Steve Petrunak
+Preview Link: https://open.spotify.com/track/3MRrI9xd9mkxLFWCFcwmAb
+==
+
+Album:        Shake It Off: Instrumental Guitar Covers of Pop Hits
+Song's name:  Cool Kids (Instrumental Version)
+Artist(s)
+--------------
+              Steve Petrunak
+Preview Link: https://open.spotify.com/track/3AEV3hR5adfBog5CLhsWVS
+==
+
+Album:        Shake It Off
+Song's name:  Shake It Off
+Artist(s)
+--------------
+              Us The Duo
+Preview Link: https://open.spotify.com/track/0GnGS3Hqq7eg2sjMPwHl1F
+==
+
+Album:        Shake It Off: Instrumental Guitar Covers of Pop Hits
+Song's name:  Maps (Instrumental Version)
+Artist(s)
+--------------
+              Steve Petrunak
+Preview Link: https://open.spotify.com/track/3CK264UGtEvPpbvVEadVIP
+==
+
+Album:        1989
+Song's name:  Shake It Off
+Artist(s)
+--------------
+              Ryan Adams
+Preview Link: https://open.spotify.com/track/391ijHd2drZtRfz5v0LqLf
+==
+
+Album:        The Emancipation of Mimi (Ultra Platinum Edition)
+Song's name:  Shake It Off
+Artist(s)
+--------------
+              Mariah Carey
+Preview Link: https://open.spotify.com/track/5ROnL6aB4p15CZ2sce0ciQ
+==
+
+Album:        Shake It Off: Instrumental Guitar Covers of Pop Hits
+Song's name:  Habits (Stay High) [Instrumental Version]
+Artist(s)
+--------------
+              Steve Petrunak
+Preview Link: https://open.spotify.com/track/16MH7WjEbCNGzH9PrIMgfi
+==
+
+Album:        KIDZ BOP Greatest Hits!
+Song's name:  Shake It Off
+Artist(s)
+--------------
+              Kidz Bop Kids
+Preview Link: https://open.spotify.com/track/2de01LX2JCvsULDiZcmjFP
+==
+
+Album:        Shake It Off
+Song's name:  Shake It Off
+Artist(s)
+--------------
+              Scott Bradlee's Postmodern Jukebox
+              Von Smith
+Preview Link: https://open.spotify.com/track/2tUS2gEp3jTuVF32Qtv0uK
+==
+
+Album:        Shake It Off
+Song's name:  Shake It Off
+Artist(s)
+--------------
+              Walk Off the Earth
+Preview Link: https://open.spotify.com/track/5kbTSXYSlWOHbBgLTwtfL4
+==
+
+Album:        Shake It Off
+Song's name:  Shake It Off
+Artist(s)
+--------------
+              Sweet Babe May
+Preview Link: https://open.spotify.com/track/52PTU0V0xUFfjhTz3mlSlw
+==
+
+Album:        Shake It Off
+Song's name:  Shake It Off
+Artist(s)
+--------------
+              Joel Cross
+Preview Link: https://open.spotify.com/track/2r55Ei2qBQkZDAkeUErzlZ
+==
+
+Album:        Sky Blue Sky
+Song's name:  Shake It Off
+Artist(s)
+--------------
+              Wilco
+Preview Link: https://open.spotify.com/track/5VvazUVXohQfWdTHKjerm4
+==
+
+Command executed: my-tweets  on Fri, 18 May 2018 04:55:54 GMT
+Thu May 17 09:09:44 +0000 2018
+Beautiful, distribute the logo at campaign rallies so that people get familiar to it. https://t.co/tKbma8P4u8
+Thu May 17 08:39:40 +0000 2018
+@ZimMediaReview This will be good if political parties are allowed to randomly pick the ballot papers for testing p… https://t.co/QhJ8xzmWuC
+Wed May 16 10:26:11 +0000 2018
+Mnangagwa looks like he is scared to go out and slug it out with Chamisa. He was invited to a debate by Nero and ch… https://t.co/N2chnb7Slx
+Wed May 16 09:33:32 +0000 2018
+MDC Alliance, the game in town. Chamisa, chibaba chenyuchi.
+Wed May 16 07:38:39 +0000 2018
+@TembaMliswa @JessieFMajome Except @ProfJNMoyo I do not remember any candidate in Zimbabwe who won as an independen… https://t.co/vII0ngXK24
+Wed May 16 07:25:39 +0000 2018
+@GutuObert  https://t.co/3fUxoVbnZS
+Tue May 15 06:03:52 +0000 2018
+RT @Wamagaisa: I used to think Mugabe’s “confession” a few years ago that Tsvangirai got 73% of the vote in 2008 was an accidental slip of…
+Tue May 15 06:01:58 +0000 2018
+@POVZM @Hendinge @NasheBK @kwirirayi @Wamagaisa @RAUZW @admire2mare @admirech @OpenParlyZw @sentinelzim… https://t.co/chehA3gSFY
+Tue May 15 05:53:55 +0000 2018
+@tapiwamuungani @POVZM @Hendinge @NasheBK @kwirirayi @Wamagaisa @RAUZW @admire2mare @admirech @OpenParlyZw… https://t.co/fIcmdlgIGD
+Tue May 15 05:38:05 +0000 2018
+@POVZM @Hendinge @NasheBK @kwirirayi @Wamagaisa @RAUZW @admire2mare @admirech @OpenParlyZw @sentinelzim… https://t.co/M754gB7YT1
+
+
+Command executed: my-tweets  on Fri, 18 May 2018 05:19:36 GMT
+Fri May 18 05:10:24 +0000 2018
+@Wamagaisa @erczimbabwe @OpenParlyZw @tawandachimhini @HealZim @JessieFMajome @kubatana @NewsDayZimbabwe… https://t.co/zDhMurI7wx
+Thu May 17 09:09:44 +0000 2018
+Beautiful, distribute the logo at campaign rallies so that people get familiar to it. https://t.co/tKbma8P4u8
+Thu May 17 08:39:40 +0000 2018
+@ZimMediaReview This will be good if political parties are allowed to randomly pick the ballot papers for testing p… https://t.co/QhJ8xzmWuC
+Wed May 16 10:26:11 +0000 2018
+Mnangagwa looks like he is scared to go out and slug it out with Chamisa. He was invited to a debate by Nero and ch… https://t.co/N2chnb7Slx
+Wed May 16 09:33:32 +0000 2018
+MDC Alliance, the game in town. Chamisa, chibaba chenyuchi.
+Wed May 16 07:38:39 +0000 2018
+@TembaMliswa @JessieFMajome Except @ProfJNMoyo I do not remember any candidate in Zimbabwe who won as an independen… https://t.co/vII0ngXK24
+Wed May 16 07:25:39 +0000 2018
+@GutuObert  https://t.co/3fUxoVbnZS
+Tue May 15 06:03:52 +0000 2018
+RT @Wamagaisa: I used to think Mugabe’s “confession” a few years ago that Tsvangirai got 73% of the vote in 2008 was an accidental slip of…
+Tue May 15 06:01:58 +0000 2018
+@POVZM @Hendinge @NasheBK @kwirirayi @Wamagaisa @RAUZW @admire2mare @admirech @OpenParlyZw @sentinelzim… https://t.co/chehA3gSFY
+Tue May 15 05:53:55 +0000 2018
+@tapiwamuungani @POVZM @Hendinge @NasheBK @kwirirayi @Wamagaisa @RAUZW @admire2mare @admirech @OpenParlyZw… https://t.co/fIcmdlgIGD
+Tue May 15 05:38:05 +0000 2018
+@POVZM @Hendinge @NasheBK @kwirirayi @Wamagaisa @RAUZW @admire2mare @admirech @OpenParlyZw @sentinelzim… https://t.co/M754gB7YT1
+
+
+Command executed: spotify-this-song I Want it That Way on Fri, 18 May 2018 05:41:53 GMT
+Album:        The Hits--Chapter One
+Song's name:  I Want It That Way
+Artist(s)
+--------------
+              Backstreet Boys
+Preview Link: https://open.spotify.com/track/6e40mgJiCid5HRAGrbpGA6
+==
+
+Album:        Millennium
+Song's name:  I Want It That Way
+Artist(s)
+--------------
+              Backstreet Boys
+Preview Link: https://open.spotify.com/track/47BBI51FKFwOMlIiX6m8ya
+==
+
+Album:        The Essential Backstreet Boys
+Song's name:  I Want It That Way
+Artist(s)
+--------------
+              Backstreet Boys
+Preview Link: https://open.spotify.com/track/68y6OIiE1nDdI1MLQdJNh8
+==
+
+Album:        Covers Part IV
+Song's name:  I Want It That Way
+Artist(s)
+--------------
+              Anthem Lights
+Preview Link: https://open.spotify.com/track/3Ww6kEWxLh4Ub4WPJ9hMtA
+==
+
+Album:        Bye Bye Bye / I Want It That Way (Glee Cast Version)
+Song's name:  Bye Bye Bye / I Want It That Way (Glee Cast Version)
+Artist(s)
+--------------
+              Glee Cast
+Preview Link: https://open.spotify.com/track/3t7m7AzV2ntuI9fIT6KREP
+==
+
+Album:        I Want It That Way
+Song's name:  I Want It That Way
+Artist(s)
+--------------
+              Manuel Costa
+Preview Link: https://open.spotify.com/track/4Sp4RxkWukxqJykl0ySNQi
+==
+
+Album:        90 Sweet 90s Hits!
+Song's name:  I Want It That Way
+Artist(s)
+--------------
+              Backstreet Boys
+Preview Link: https://open.spotify.com/track/1zCiqxhampG4dcC7HEqPu5
+==
+
+Album:        Poodle Hat
+Song's name:  Ebay (Parody of "I Want It That Way" by the Backstreet Boys)
+Artist(s)
+--------------
+              "Weird Al" Yankovic
+Preview Link: https://open.spotify.com/track/4vHb50VkxDzHYwLiHfWczK
+==
+
+Album:        Punk Goes Pop
+Song's name:  I Want It That Way
+Artist(s)
+--------------
+              Dynamite Boy
+Preview Link: https://open.spotify.com/track/0F5f29urvisi4TiwJOQZWN
+==
+
+Album:        New Acoustic Sessions, Vol. 3
+Song's name:  I Want It That Way
+Artist(s)
+--------------
+              Boyce Avenue
+Preview Link: https://open.spotify.com/track/4YmJGDRo6oGhObb7MaW5om
+==
+
+Album:        I Want It That Way
+Song's name:  I Want It That Way
+Artist(s)
+--------------
+              Steel Panther
+Preview Link: https://open.spotify.com/track/0448cNUvZGCAlUpIPO5kdY
+==
+
+Album:        I Want It That Way
+Song's name:  I Want It That Way
+Artist(s)
+--------------
+              Kyle Olthoff
+              Destiny Jenkins
+Preview Link: https://open.spotify.com/track/1UUw0IsDzxCxJ6v0dlygUy
+==
+
+Album:        I Want It That Way
+Song's name:  I Want It That Way
+Artist(s)
+--------------
+              Landon Austin & Julia Sheer
+Preview Link: https://open.spotify.com/track/1zUJq8Ap2u9MyDo0HJxVU5
+==
+
+Album:        The Essential "Weird Al" Yankovic
+Song's name:  Ebay (Parody of "I Want It That Way" by the Backstreet Boys)
+Artist(s)
+--------------
+              "Weird Al" Yankovic
+Preview Link: https://open.spotify.com/track/1vaico2C72imYowF4Kv04V
+==
+
+Album:        NOW That's What I Call 90s Pop
+Song's name:  I Want It That Way
+Artist(s)
+--------------
+              Backstreet Boys
+Preview Link: https://open.spotify.com/track/75W4IDdKhHvRQZpaDx9YPg
+==
+
+Album:        NKOTBSB
+Song's name:  I Want It That Way
+Artist(s)
+--------------
+              Backstreet Boys
+Preview Link: https://open.spotify.com/track/2KMwtsWwL5QDtSpm814tju
+==
+
+Album:        Selfies on Kodachrome
+Song's name:  I Want It That Way
+Artist(s)
+--------------
+              Scott Bradlee's Postmodern Jukebox
+              Shoshana Bean
+Preview Link: https://open.spotify.com/track/1Le3uYU5NU9cXXtYeSWnEM
+==
+
+Album:        Nu Funk
+Song's name:  I Want It That Way
+Artist(s)
+--------------
+              Scary Pockets
+              Casey Abrams
+Preview Link: https://open.spotify.com/track/4IWQXV01Lp0wsXCXo09EBr
+==
+
+Album:        I Want It That Way
+Song's name:  I Want It That Way
+Artist(s)
+--------------
+              Jason Chen
+              Joseph Vincent
+Preview Link: https://open.spotify.com/track/3YugF8eBqmkUDLwFvTfCVB
+==
+
+Album:        PMJ Is For Lovers: The Love Song Collection
+Song's name:  I Want It That Way
+Artist(s)
+--------------
+              Scott Bradlee's Postmodern Jukebox
+              Shoshana Bean
+Preview Link: https://open.spotify.com/track/6FNTpwQU3VNZvezUPYMjPY
+==
+
