@@ -9,17 +9,25 @@ In Liri, the objective is to showcase the use of the npm ecosystem. We are not r
     
 2.  Songs:-
 	To display information on songs, execute the command 'node liri spotify-this-song <name of the song>'.
+	
 	Replace <name of the song> with the track name, for example, node liri spotify-this-song shake it off.
+	
 	If no song is typed, liri will pick up a default song 'The Sign' by Ace of Base.
 
 3.  Movies:-
 	To display information on movies, execute the command 'node liri movie-this <name of the movie>'.
+	
 	Replace <name of the movie> with the movie name, for example, node liri movie-this Die Another Day
+	
 
 4.  Taking commands through a file:-
+
 	A file, named as random.txt can be used to supply commands to liri.
+	
 	To use a file, execute the command 'node liri do-what-it-says'.
+	
 	Inside the text file, the commands described in point 1 to 3 can be typed, one at a time.
+	
 
 # Setup
 To execute liri on your computer, follow the following procedure
@@ -27,20 +35,26 @@ To execute liri on your computer, follow the following procedure
 1.  git clone https://github.com/samsonmarikwa/liri-node-app to your computer.
 
 2.  Create a .env file with the following entries
-    # Spotify API keys
+    ## Spotify API keys
     SPOTIFY_ID=\<your spotify id\>
+    
     SPOTIFY_SECRET=\<your spotify secret code\>
 
-    # Twitter API keys
+    ## Twitter API keys
     TWITTER_CONSUMER_KEY=\<your twitter consumer key\>
+    
     TWITTER_CONSUMER_SECRET=\<your twitter consumer secret\>
+    
     TWITTER_ACCESS_TOKEN_KEY=\<your twitter access token key\>
+    
     TWITTER_ACCESS_TOKEN_SECRET=\<your twitter access token secret\>
 
-    # OMBD API key
+    ## OMBD API key
     OMDB_API_KEY=\<your OMDB API key\>
 
 3.  API Keys
 	Spotify API keys:- visit https://developer.spotify.com/my-applications
+	
 	OMDB API key:- visit http://www.omdbapi.com/apikey.aspx
+	
 	Twitter API keys:- visit https://apps.twitter.com/app/new for the Twitter API keys.
