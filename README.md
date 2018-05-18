@@ -42,7 +42,7 @@ In Liri, the objective is to showcase the use of the npm ecosystem. We are not r
 
 # Setup
 
-To execute liri on your computer, follow the following procedure
+To execute liri on your computer, follow the procedure below
 
 1.  git clone https://github.com/samsonmarikwa/liri-node-app to your computer.
 
@@ -74,10 +74,13 @@ To execute liri on your computer, follow the following procedure
 
 
 
+
 3.  API Keys
+
+        You can obtain the above keys by visiting the websites shown below.
 
 	Spotify API keys:- visit https://developer.spotify.com/my-applications
 	
 	OMDB API key:- visit http://www.omdbapi.com/apikey.aspx
 	
-	Twitter API keys:- visit https://apps.twitter.com/app/new for the Twitter API keys.
+	Twitter API keys:- visit https://apps.twitter.com/app/new
