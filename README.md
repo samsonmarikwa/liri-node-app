@@ -40,7 +40,7 @@ To execute liri on your computer, follow the procedure below
     OMDB_API_KEY=\<your OMDB API key\>
 
 3.  The codes can be obtained from https://developer.spotify.com/my-applications for the Spotify API keys.
-    http://www.omdbapi.com/apikey.aspx for the OMDB API key\n
+    http://www.omdbapi.com/apikey.aspx for the OMDB API key
     https://apps.twitter.com/app/new for the Twitter API keys
 	
 
