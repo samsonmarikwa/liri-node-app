@@ -43,8 +43,5 @@ To execute liri on your computer, follow the procedure below
     http://www.omdbapi.com/apikey.aspx for the OMDB API key\n
     https://apps.twitter.com/app/new for the Twitter API keys
 	
-	
-## Videos
 
-You can access the videos on the setup and execution of the Bamazon programs on [Google Drive](https://drive.google.com/drive/folders/1AvKI0r8PcrNBCIans32TF9Znfu0pP-Ht?usp=sharing)
   
